@@ -1,0 +1,4 @@
+.utama {
+    background: rgb(68,68,68);
+    background: linear-gradient(90deg, rgba(68,68,68,1) 12%, rgba(177,177,177,1) 46%, rgba(0,0,0,1) 92%);
+}
